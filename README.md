@@ -1,0 +1,11 @@
+
+  # EduBridge
+
+  This is a code bundle for EduBridge. The original project is available at https://www.figma.com/design/4nN24qAWzSYijkkL0FUimz/EduBridge.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
